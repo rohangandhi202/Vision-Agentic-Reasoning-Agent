@@ -1,0 +1,2 @@
+timestamp,image_path,confidence,low_confidence_reason,vendor,total,status
+2026-04-22T19:29:52.358479,images/test/bad_receipt2.jpeg,0.45,"Receipt is crumpled and heavily creased, making most text difficult to read. Many line items and prices are illegible. Date is not visible. Total amount partially visible showing what appears to be $8.00 but uncertain.",Starbucks,8.0,needs_review
